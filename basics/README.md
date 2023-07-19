@@ -4,4 +4,4 @@
 3- Mostrar el contenido del directorio actual en un formato largo
 4- Muestra el contenido del directorio actual, incluidos los archivos ocultos (que comienzan con .). Usa el formato largo
 5- Muestra el contenido del directorio actual. formato largo con ID de usuario y grupo mostrados numéricamente Y archivos ocultos
-6- Cree un script que cree un directorio denominado my_first_directory en el directorio /tmp/..
+6- Cree un script que cree un directorio denominado my_first_directory en el directorio /tmp/
